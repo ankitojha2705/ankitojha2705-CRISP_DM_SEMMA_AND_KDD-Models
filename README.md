@@ -1,4 +1,4 @@
-# Customer Churn Prediction Project
+# CRISP-DM SEMMA AND KDD assignments
 
 This project employs three different data mining methodologies—CRISP-DM, KDD, and SEMMA—on distinct datasets from Kaggle to solve customer churn and fraud detection problems. The process includes data understanding, preparation, model training, evaluation, and insights for deployment.
 
