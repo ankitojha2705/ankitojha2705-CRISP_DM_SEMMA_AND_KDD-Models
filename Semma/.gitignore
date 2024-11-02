@@ -1,0 +1,40 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment variable files
+.env
+.env.local
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Java compiled files
+*.class
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore package-lock.json or yarn.lock if you use npm or yarn
+package-lock.json
+yarn.lock
